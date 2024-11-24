@@ -1,19 +1,15 @@
 public class hel {
     public static void main(String[] args) {
+
+       System.out.println("
+       jj
+       ddjd
+       djdk
+       ");
+      
+
        
 
-    //   1
-    //   1
-
-    //   1
-    //   1
-    //   1
-
-    //   1
-    //   1
-    //   1
-    System.out.println("jdfd");
-    //   1
-
+   
     }
 }
